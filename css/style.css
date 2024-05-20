@@ -29,3 +29,26 @@ div {
 .evidenziato {
     background-color: yellow;
 }
+
+thead {
+    background-color: cornflowerblue;
+    color: aliceblue;
+    background-size: cover;
+}
+
+th {
+    padding-left: 180px;
+    padding-right: 180px;
+}
+
+td {
+    padding-left: 180px;
+    padding-right: 180px;
+    background-color: rgba(0, 106, 255, 0.696);
+}
+
+.bianco {
+    padding-left: 180px;
+    padding-right: 180px;
+    background-color: rgba(230, 240, 240, 0.821);
+}
