@@ -72,3 +72,7 @@ th {
 table {
     border-collapse: collapse;
 }
+
+ul {
+    padding-left: 20px;
+}
