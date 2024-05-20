@@ -37,22 +37,38 @@ thead {
 }
 
 th {
-    padding-left: 180px;
-    padding-right: 180px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
-td {
-    padding-left: 180px;
-    padding-right: 180px;
+.azzurrino {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
     background-color: rgba(0, 106, 255, 0.696);
 }
 
 .bianco {
-    padding-left: 180px;
-    padding-right: 180px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgba(230, 240, 240, 0.821);
+}
+
+.bianco1 {
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     background-color: rgba(230, 240, 240, 0.821);
 }
 
 .grigio {
     color: rgba(181, 177, 177, 0.845);
+}
+
+table {
+    border-collapse: collapse;
 }
