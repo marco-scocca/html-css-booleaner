@@ -6,9 +6,9 @@
 
 header {
     background-image: url(../img/pattern.png);
-    background-size: 300px;
+    background-size: 400px;
     height: 100px;
-    background-color: royalblue;
+    background-color: hsla(209, 84%, 56%, 0.814);
 }
 
 .logo {
@@ -19,7 +19,7 @@ header {
 }
 
 .azzurro {
-    color: aqua;
+    color: rgb(15, 224, 221);
 }
 
 div {
@@ -46,7 +46,7 @@ th {
     padding-bottom: 20px;
     padding-left: 100px;
     padding-right: 100px;
-    background-color: rgba(0, 106, 255, 0.696);
+    background-color: rgba(0, 229, 255, 0.69);
 }
 
 .bianco {
