@@ -25,3 +25,7 @@ header {
 div {
     padding-left: 10px;
 }
+
+.evidenziato {
+    background-color: yellow;
+}
