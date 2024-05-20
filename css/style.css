@@ -5,12 +5,23 @@
 }
 
 header {
-    background-image: url(../pattern.png);
+    background-image: url(../img/pattern.png);
+    background-size: 300px;
     height: 100px;
     background-color: royalblue;
+}
 
-    .logo {
-        width: 120px;
-        padding-top: 60px;
-        padding-left: 5px;
-    }
+.logo {
+    height: 80px;
+    padding-top: 50px;
+    padding-left: 5px;
+
+}
+
+.azzurro {
+    color: aqua;
+}
+
+div {
+    padding-left: 10px;
+}
